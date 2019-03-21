@@ -1287,6 +1287,32 @@ pre .javascript .function {
     color: #fff;
   }
 }
+.link-preview .link-area {
+  overflow: hidden;
+  position: relative;
+  margin: 1em 0 1em 0;
+  padding: 10px;
+  border: 1px #999 solid;
+}
+.link-preview .descriptions {
+  overflow: hidden;
+}
+.link-preview .og-title {
+  overflow: hidden;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.link-preview .og-description {
+  font-size: 0.86em;
+  margin-top: 0.2em;
+}
+.link-preview .og-image {
+  float: left;
+  margin-right: 10px;
+}
+.link-preview .og-image img {
+  max-width: 125px;
+}
 @media screen and (min-width: 768px) {
   #sidebar {
     display: inline;
