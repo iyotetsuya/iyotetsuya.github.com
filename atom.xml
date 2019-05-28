@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iyotetsuya.github.io/"/>
-  <updated>2019-03-21T10:25:18.297Z</updated>
+  <updated>2019-05-28T05:28:04.810Z</updated>
   <id>http://iyotetsuya.github.io/</id>
   
   <author>
@@ -17,13 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>替公司導入日文研修的過程</title>
+    <link href="http://iyotetsuya.github.io/2019/05/28/japanese-lesson/"/>
+    <id>http://iyotetsuya.github.io/2019/05/28/japanese-lesson/</id>
+    <published>2019-05-28T05:54:52.000Z</published>
+    <updated>2019-05-28T05:28:04.810Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近公司終於開始要導入日文研修的福利厚生制度。身為努力爭取的推行者，很自然地就下海幫忙確認內部現行資源要如何才能效益最大化。公司就先幫我安排了一次試教性質的1對1日文研修（1小時）。</p><p>狀況整理：</p><ul><li>導入日文研修的理由：成員間的溝通成本，雖然社內公用語是英文，但仍避免不了有些只能以日文溝通的場合。</li><li>公司能提供的資源有限。</li></ul><p>試教筆記：</p><ul><li>前30分鐘<ul><li>主要是利用教科書，以<strong>に対して</strong>是否能用<strong>に</strong>來換句話說，藉此確認是否適合做為教學內容。</li><li>心得：<ul><li>以教科書為主雖然可以有系統化的學習，但學習完的內容如無法運用在日常生活中的話，很容易就會忘記。（同事就有雖然知道文法，但每次說的時候都會忘記的情形）。</li><li>1對1教學來說，如果練習中只會有少部份時間是需要與老師討論的話，價值上會較為低落，覺得有點浪費。 </li></ul></li></ul></li><li>後30分鐘<ul><li>會話形式為主，以實際的對話中找出錯誤的句型與文法並補充該如何才能說出更自然的日文。</li><li>心得：<ul><li>實用性很高 ，但因為會話的特性會很難留下文字紀錄。</li><li>很個人化，因為能力的差異並不適用於全體成員。</li></ul></li></ul></li><li>結論<ul><li>發現身為學習者重視的在於如何得到<strong>可以反覆確認的回饋</strong>並藉此修正。</li><li>提案<ul><li>學生寫下想要分享的內容，如果是工作相關更好，著重在練習如何把想法表現出來。</li><li>交由老師 （依個人需求與預算考量提供回饋）<ul><li>單純的文章訂正</li><li>附上可使用文法(需附上日文或英文說明)</li><li>修正後內容的錄音 </li></ul></li><li>自行根據老師提供的回饋內容進行練習</li><li>實際對外練習<ul><li>公司內部的日文練習會</li><li>網站上的對外發信，如技術Blog</li><li>OOS的發表</li></ul></li></ul></li><li>懸念點<ul><li>因為內容與公司業務內容相關，需要與老師簽訂NDA。</li><li>可以對應英文說明的老師應該不多。</li><li>有能提供錄音檔的老師嗎？</li></ul></li></ul></li></ul><p>希望公司可以找得到能對應的老師，不然1對1的研修真的是太貴了……<br>之後如果有更新的話再來分享。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近公司終於開始要導入日文研修的福利厚生制度。身為努力爭取的推行者，很自然地就下海幫忙確認內部現行資源要如何才能效益最大化。公司就先幫我安排了一次試教性質的1對1日文研修（1小時）。&lt;/p&gt;
+&lt;p&gt;狀況整理：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;導入日文研修的理由：成員間的溝通成本，
+      
+    
+    </summary>
+    
+      <category term="工作" scheme="http://iyotetsuya.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="日文學習" scheme="http://iyotetsuya.github.io/tags/%E6%97%A5%E6%96%87%E5%AD%B8%E7%BF%92/"/>
+    
+  </entry>
+  
+  <entry>
     <title>三月的個人回顧</title>
     <link href="http://iyotetsuya.github.io/2019/03/21/plan-2019-03/"/>
     <id>http://iyotetsuya.github.io/2019/03/21/plan-2019-03/</id>
     <published>2019-03-21T08:39:18.000Z</published>
-    <updated>2019-03-21T10:25:18.297Z</updated>
+    <updated>2019-03-21T10:29:03.141Z</updated>
     
-    <content type="html"><![CDATA[<p>一個半月前(1/31)有說想要<a href="/2019/01/31/plan/" title="每個月都要做KPT">每個月都要做KPT</a>。<del>結果根本就超過一個月了，今天再不寫大概就要變成雙月刊了ODO</del>，大致列一下這段時間內做了什麼事情。</p><ul><li>跟朋友去了一趟富士山（3/2~3/4三天，雖然都是下雨完全看不到山的狀態），之後應該會寫一篇遊記，再看什麼時候可以生出來，現在大概還有三篇左右的草稿還沒完成。</li><li>寫了二篇參加conf的心得文。（<a href="/2019/02/07/droidkaigi2019/" title="DroidKaigi 2019 現場">DroidKaigi 2019 現場</a>，<a href="/2019/02/06/dena2019/" title="DeNA TechCon 2019">DeNA TechCon 2019</a>）</li><li>當初沒列，但其實正在轉職活動了，這個月有空的時間幾乎都是花在這個相關的準備上。之後應該也會寫一些在這段準備時間裡學習到的事情。</li></ul><h3 id="Keep"><a href="#Keep" class="headerlink" title="Keep"></a>Keep</h3><ul><li>薪水</li><li>一年國內旅行2~3次（二天以上）</li><li>不加班</li><li><strong>寫文章（新）</strong><ul><li>以目前的狀況來說還沒有出現不知道要寫什麼的情況，就只是需要找時間把想法變成文章而己。</li></ul></li></ul><h3 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h3><ul><li>日文沒什麼長足的進步</li><li><del>工作最近有點變動，己經不滿足當初的目標</del> → 找到理想的工作</li><li><strong>因為轉職的關係多了很多需要做的事情，影響到時間資源的使用（新）</strong></li></ul><h3 id="Try"><a href="#Try" class="headerlink" title="Try"></a>Try</h3><ul><li>努力準備轉職活動</li></ul><p>順帶一提，雖後是打算轉職了，但還是覺得現在的公司不錯，最近有在徵一位ReactJS的工程師（當然也有其它職缺），如果有興趣來日本工作的話，歡迎直接從下面連結應徵，或是想先跟我聊聊也可以。</p><a href="https://www.wantedly.com/projects/294519" class="link-preview" target="_blank"><div class="link-area"><div class="og-image"><img src="https://d2v9k5u4v94ulw.cloudfront.net/small_light(dw=1440,dh=1440,da=l,ds=n,cc=FFFFFF)/assets/images/3590944/original/2ed8f871-6369-4521-8f61-ca03363e7d4e?1552901464"></div><div class="descriptions"><div class="og-title">Reactの経験豊富なフロントエンドエンジニア！ by ジョイズ株式会社</div><div class="og-description">React・Redux・TypeScriptを利用した、AI英会話アプリ「TerraTalk」の各種ブラウザアプリの開発- Rea...</div></div></div></a><p><del>當然之後應該也會再發Android的徵才文。</del></p>]]></content>
+    <content type="html"><![CDATA[<p>一個半月前(1/31)有說想要<a href="/2019/01/31/plan/" title="每個月都要做KPT">每個月都要做KPT</a>。<del>結果根本就超過一個月了，今天再不寫大概就要變成雙月刊了ODO</del>，大致列一下這段時間內做了什麼事情。</p><ul><li>跟朋友去了一趟富士山（3/2~3/4三天，雖然都是下雨完全看不到山的狀態），之後應該會寫一篇遊記，再看什麼時候可以生出來，現在大概還有三篇左右的草稿還沒完成。</li><li>寫了二篇參加conf的心得文。（<a href="/2019/02/07/droidkaigi2019/" title="DroidKaigi 2019 現場">DroidKaigi 2019 現場</a>，<a href="/2019/02/06/dena2019/" title="DeNA TechCon 2019">DeNA TechCon 2019</a>）</li><li>當初沒列，但其實正在轉職活動了，這個月有空的時間幾乎都是花在這個相關的準備上。之後應該也會寫一些在這段準備時間裡學習到的事情。</li></ul><h3 id="Keep"><a href="#Keep" class="headerlink" title="Keep"></a>Keep</h3><ul><li>薪水</li><li>一年國內旅行2~3次（二天以上）</li><li>不加班</li><li><strong>寫文章（新）</strong><ul><li>以目前的狀況來說還沒有出現不知道要寫什麼的情況，就只是需要找時間把想法變成文章而己。</li></ul></li></ul><h3 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h3><ul><li>日文沒什麼長足的進步</li><li><del>工作最近有點變動，己經不滿足當初的目標</del> → 找到理想的工作</li><li><strong>因為轉職的關係多了很多需要做的事情，影響到時間資源的使用（新）</strong></li></ul><h3 id="Try"><a href="#Try" class="headerlink" title="Try"></a>Try</h3><ul><li>努力準備轉職活動</li></ul><p>順帶一提，雖後是打算轉職了，但還是覺得現在的公司不錯，最近有在徵一位ReactJS的工程師（當然也有其它職缺），如果有興趣來日本工作的話，歡迎直接從下面連結應徵，或是想先跟我聊聊也可以。</p><a href="https://www.wantedly.com/projects/294519" class="link-preview" target="_blank"><div class="link-area"><div class="og-image"><img src="https://d2v9k5u4v94ulw.cloudfront.net/small_light(dw=1440,dh=1440,da=l,ds=n,cc=FFFFFF)/assets/images/3590944/original/2ed8f871-6369-4521-8f61-ca03363e7d4e?1552901464"></div><div class="descriptions"><div class="og-title">Reactの経験豊富なフロントエンドエンジニアを探しています！ by ジョイズ株式会社</div><div class="og-description">React・Redux・TypeScriptを利用した、AI英会話アプリ「TerraTalk」の各種ブラウザアプリの開発- Rea...</div></div></div></a><p><del>當然之後應該也會再發Android的徵才文。</del></p>]]></content>
     
     <summary type="html">
     
