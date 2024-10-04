@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "li.yapp.preview.debug",
-    "sha256_cert_fingerprints":
-    ["9E:C2:AC:D4:75:4B:80:9F:28:AD:D9:0E:D7:37:BC:DF:A4:E2:5D:31:66:C5:7C:1E:F0:4E:F4:88:43:3E:6A:DE"]
-  }
-}]
